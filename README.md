@@ -1,4 +1,4 @@
-<img src="https://github.com/sp5289/sp5289/blob/main/images/SeanPoole.png" width="100%" alt="banner">
+<img src="https://github.com/sp5289/sp5289/blob/main/images/SeanPoole.png" width="80%" alt="banner">
 
 <div align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seanpoole.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/seandev21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/twxntyone_)
@@ -11,7 +11,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="66b2b2" width="100%">
+<table align="center" bordercolor="66b2b2" width="100%">
   <tr>
     <td>
       <h3 align="center">Nikki's Salon</h3>
