@@ -1,7 +1,15 @@
-<img src="https://github.com/sp5289/sp5289/blob/main/images/SeanPoole.png" width="80%" alt="banner">
+<img src="https://github.com/sp5289/sp5289/blob/main/images/SeanPoole.png" align="center" width="100%" alt="banner">
 
-<div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seanpoole.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/seandev21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/twxntyone_)
+<div align="center" width="100%">
+  <a href="https://seanpoole.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-03d3fc?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/seandev21/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-03d3fc?style=for-the-badge">
+  </a>
+  <a href="https://twitter.com/twxntyone_" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-03d3fc?style=for-the-badge">
+  </a>
 </div>
 
 
