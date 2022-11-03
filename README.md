@@ -14,7 +14,7 @@
 
 <br />
 
-A full-stack software engineer motivated by affecting positive change by means of developing purposeful solutions.
+A full-stack software engineer determined to influence positive change by means of developing purposeful solutions.
 
 See [my website](https://seanpoole.netlify.app/) for more information.
 
