@@ -2,21 +2,23 @@
 
 <div align="center" width="100%">
   <a href="https://seanpoole.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-03d3fc?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Website-00b3db?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/seandev21/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-03d3fc?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-00b3db?style=for-the-badge">
   </a>
   <a href="https://twitter.com/twxntyone_" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-03d3fc?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Twitter-00b3db?style=for-the-badge">
   </a>
 </div>
 
+<br />
 
 A full-stack software engineer motivated by affecting positive change by means of developing purposeful solutions.
 
 See [my website](https://seanpoole.netlify.app/) for more information.
 
+<br />
 
 <h1 align="center">Projects</h1>
 <table align="center" bordercolor="66b2b2" width="100%">
