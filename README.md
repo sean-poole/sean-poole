@@ -31,7 +31,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sp5289/sp5289/blob/main/images/nikki-salon-preview.gif" width="100%" alt="Nikki's Salon">
       </a>
       <br />
-      <p align="center">Fully-responsive & modern website for an on trend full-service salon.</p>
+      <p>Fully-responsive & modern website for an on trend full-service salon.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Inland Empire Stargazers Society</h3>
@@ -40,7 +40,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/iess-preview.gif" width="100%" alt="Stargazers Society">
       </a>
       <br />
-      <p align="center">Web app with NASA API integration which features a "Photo of the Day" and its description upon date selection.</p>
+      <p>Web app with NASA API integration which features a "Photo of the Day" and its description upon date selection.</p>
     </td>  
   </tr>
   
@@ -52,7 +52,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/barhelper-preview.gif" width="100%" alt="BarHelper">
       </a>
       <br />
-      <p align="center">A drink suggesting application derived from an API based on a liquor of the user's choosing.</p>
+      <p>A drink suggesting application derived from an API based on a liquor of the user's choosing.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Kosuke's Photography Portfolio</h3>
@@ -61,7 +61,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/kosuke-photography-preview.gif" width="100%" alt="Kosuke Nishikawa Photography">
       </a>
       <br />
-      <p align="center">An online showcase of photographs taken by Kosuke Nishikawa.</p>
+      <p>An online showcase of photographs taken by Kosuke Nishikawa.</p>
     </td>
   </tr>
 </table>
