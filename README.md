@@ -22,9 +22,9 @@ See [my website](https://seanpoole.netlify.app/) for more information.
 
 <h1 align="center">Projects</h1>
 
-<table align="center" bordercolor="66b2b2" width="100%">
+<table align="center" bordercolor="66b2b2">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Nikki's Salon</h3>
       <br />
       <a href="https://nikkisbeautysalon.netlify.app" target="_blank">
@@ -34,11 +34,11 @@ See [my website](https://seanpoole.netlify.app/) for more information.
       <p align="center">Fully-responsive & modern website for an on trend full-service salon.</p>
     </td>
   
-    <td width="50%">
+    <td width="50%" valign="top">
         <h3 align="center">Inland Empire Stargazers Society</h3>
         <br />
         <a href="https://iess.netlify.app" target="_blank">
-          <img src="" width="100%" alt="Beverage Selector">
+          <img src="https://github.com/sean-poole/sean-poole/blob/main/images/iess-preview.gif" width="100%" alt="Beverage Selector">
         </a>
         <br />
         <p align="center">Web app with NASA API integration which features a "Photo of the Day" and its description upon date selection.</p>
@@ -46,21 +46,21 @@ See [my website](https://seanpoole.netlify.app/) for more information.
   </tr>
   
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">BarHelper</h3>
       <br />
       <a href="https://barhelper.netlify.app" target="_blank">
-        <img src="" width="100%" alt="Beverage Selector">
+        <img src="https://github.com/sean-poole/sean-poole/blob/main/images/barhelper-preview.gif" width="100%" alt="Beverage Selector">
       </a>
       <br />
       <p align="center">A drink suggesting application derived from an API based on a liquor of the user's choosing.</p>
     </td>
     
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Kosuke's Photography Portfolio</h3>
       <br />
       <a href="https://kosukenishikawa.netlify.app" target="_blank">
-        <img src="" width="100%" alt="Kosuke Nishikawa Photography">
+        <img src="https://github.com/sean-poole/sean-poole/blob/main/images/kosuke-photography-preview.gif" width="100%" alt="Kosuke Nishikawa Photography">
       </a>
       <br />
       <p align="center">An online showcase of photographs taken by Kosuke Nishikawa.</p>
