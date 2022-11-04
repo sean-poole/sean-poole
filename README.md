@@ -36,7 +36,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
     <td width="50%" valign="top">
       <h3 align="center">Inland Empire Stargazers Society</h3>
       <br />
-      <a href="https://iess.netlify.app" target="_blank">
+      <a href="https://iestargazers.netlify.app" target="_blank">
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/iess-preview.gif" width="100%" alt="Stargazers Society">
       </a>
       <br />
