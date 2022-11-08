@@ -31,7 +31,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sp5289/sp5289/blob/main/images/nikki-salon-preview.gif" width="100%" alt="Nikki's Salon">
       </a>
       <br />
-      <p>Fully-responsive & modern website for an on trend full-service salon.</p>
+      <p>Fully responsive & modern website for an on-trend full-service salon.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Inland Empire Stargazers Society</h3>
