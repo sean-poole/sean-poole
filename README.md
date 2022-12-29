@@ -1,4 +1,4 @@
-<img src="https://github.com/sp5289/sp5289/blob/main/images/SeanPoole.png" align="center" width="100%" alt="banner">
+<img src="https://github.com/sean-poole/sean-poole/blob/main/images/github-banner.jpg" align="center" width="100%" alt="banner">
 
 <div align="center" width="100%">
   <a href="https://seanpoole.netlify.app/" target="_blank">
