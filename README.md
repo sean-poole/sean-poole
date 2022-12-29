@@ -40,7 +40,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/iess-preview.gif" width="100%" alt="Stargazers Society">
       </a>
       <br />
-      <p>Web app with NASA API integration which features a "Photo of the Day" and its description upon date selection.</p>
+      <p>Web application with NASA API integration featuring a "Photo of the Day" and its description upon date selection.</p>
     </td>  
   </tr>
   
@@ -52,7 +52,7 @@ See [my website](https://seanpoole.netlify.app/) for more information.
         <img src="https://github.com/sean-poole/sean-poole/blob/main/images/barhelper-preview.gif" width="100%" alt="BarHelper">
       </a>
       <br />
-      <p>A drink suggesting application derived from an API based on a liquor of the user's choosing.</p>
+      <p>A drink-suggestion application based on a liquor of the user's choosing derived from the CocktailDB API.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Kosuke's Photography Portfolio</h3>
